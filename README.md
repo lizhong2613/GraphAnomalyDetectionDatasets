@@ -26,7 +26,15 @@ Yelp | - |5,200,000  | https://www.kaggle.com/yelp-dataset/yelp-dataset | Yelp是
 douban | 129490 |1,692,952 | https://www.librec.net/datasets.html | 该数据集为异质网络 
 
 
-##其他数据集
+
+##  时序数据集
+数据集名称 | 节点数目 | 边数目 | 下载地址 | 说明
+---|--- |--- | --- | --- 
+DARPA | 	 | |  https://www.ll.mit.edu/r-d/datasets/1998-darpa-intrusion-detection-evaluation-dataset | *
+twitterworldcup2014 | 	 | |  http://odds.cs.stonybrook.edu/twitterworldcup2014-dataset/ | *
+twittersecurity | 	 | |  http://odds.cs.stonybrook.edu/twittersecurity-dataset/ | *
+
+##  其他数据集
 2. SNAP公开的数据集
  地址：http://snap.stanford.edu/data/index.html
 
